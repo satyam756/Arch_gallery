@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Arch_gallery/static/css/main.37c6acc8.css",
+    "main.js": "/Arch_gallery/static/js/main.7d144bc3.js",
+    "static/js/453.73a29d2f.chunk.js": "/Arch_gallery/static/js/453.73a29d2f.chunk.js",
+    "static/media/sunny.jpg": "/Arch_gallery/static/media/sunny.b7803c4ee42ef5e9f69f.jpg",
+    "static/media/shubham.jpg": "/Arch_gallery/static/media/shubham.571f9a6c2ddab9d37274.jpg",
+    "static/media/dolly.jpg": "/Arch_gallery/static/media/dolly.d4a1681f6eb320d2e07d.jpg",
+    "static/media/satyam.jpg": "/Arch_gallery/static/media/satyam.610837d7285d1cbb1eb1.jpg",
+    "static/media/shariqh.jpg": "/Arch_gallery/static/media/shariqh.fd7849d9a358cb31de4c.jpg",
+    "static/media/ramji.png": "/Arch_gallery/static/media/ramji.bad6d47e88e2b681e048.png",
+    "static/media/dinish.png": "/Arch_gallery/static/media/dinish.dc380a0cacae5dbaef6a.png",
+    "static/media/jyothi.jpg": "/Arch_gallery/static/media/jyothi.9a2910390fe9e0f70227.jpg",
+    "index.html": "/Arch_gallery/index.html",
+    "main.37c6acc8.css.map": "/Arch_gallery/static/css/main.37c6acc8.css.map",
+    "main.7d144bc3.js.map": "/Arch_gallery/static/js/main.7d144bc3.js.map",
+    "453.73a29d2f.chunk.js.map": "/Arch_gallery/static/js/453.73a29d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c6acc8.css",
+    "static/js/main.7d144bc3.js"
+  ]
+}
